@@ -1,1 +1,1 @@
-<img src="./modelagemDoBancoDeDados" alt="img" width="500" height="400"><br>
+<img src="./modelagemDoBancoDeDados.png" alt="img" width="500" height="400"><br>
